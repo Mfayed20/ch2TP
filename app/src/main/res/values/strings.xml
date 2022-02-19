@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ch2TP</string>
+    <string name="title">CH2TP</string>
+    <string-array name="options">
+        <item>hello</item>
+        <item>from</item>
+        <item>here</item>
+    </string-array>
+</resources>
